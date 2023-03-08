@@ -16,7 +16,7 @@ function App() {
           path='/'
           element={<Home />}
         />
-        <Route
+        {/* <Route
           path='/history'
           element={<History />}
         />
@@ -31,9 +31,9 @@ function App() {
         <Route
           path='/resources'
           element={<Resources />}
-        />
+        /> */}
       </Routes>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
