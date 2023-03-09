@@ -16,19 +16,19 @@ function App() {
           path='/'
           element={<Home />}
         />
-        {/* <Route
+        <Route
           path='/history'
           element={<History />}
         />
-        <Route
+        {/* <Route
           path='/benefits'
           element={<Benefits />}
-        />
-        <Route
+        /> */}
+        {/* <Route
           path='/invest'
           element={<Invest />}
-        />
-        <Route
+        /> */}
+        {/* <Route
           path='/resources'
           element={<Resources />}
         /> */}
